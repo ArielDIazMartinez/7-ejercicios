@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\num4\bin\Debug\num4.exe.config
+C:\Users\Asus\source\repos\num4\bin\Debug\num4.exe
+C:\Users\Asus\source\repos\num4\bin\Debug\num4.pdb
+C:\Users\Asus\source\repos\num4\obj\Debug\num4.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\num4\obj\Debug\num4.exe
+C:\Users\Asus\source\repos\num4\obj\Debug\num4.pdb

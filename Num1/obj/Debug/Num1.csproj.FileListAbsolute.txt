@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\PRUEBA\Num1\bin\Debug\Num1.exe.config
+C:\Users\Asus\Desktop\PRUEBA\Num1\bin\Debug\Num1.exe
+C:\Users\Asus\Desktop\PRUEBA\Num1\bin\Debug\Num1.pdb
+C:\Users\Asus\Desktop\PRUEBA\Num1\obj\Debug\Num1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\PRUEBA\Num1\obj\Debug\Num1.exe
+C:\Users\Asus\Desktop\PRUEBA\Num1\obj\Debug\Num1.pdb
